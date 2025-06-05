@@ -1,0 +1,4 @@
+2 minuts    20
+3 minuts    30
+
+4 minuts    40
